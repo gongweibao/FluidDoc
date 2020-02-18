@@ -36,6 +36,7 @@ fluid.layers
     layers/bpr_loss.rst
     layers/brelu.rst
     layers/cast.rst
+    layers/Categorical.rst
     layers/ceil.rst
     layers/center_loss.rst
     layers/chunk_eval.rst
@@ -58,6 +59,7 @@ fluid.layers
     layers/create_tensor.rst
     layers/crf_decoding.rst
     layers/crop.rst
+    layers/crop_tensor.rst
     layers/cross_entropy.rst
     layers/ctc_greedy_decoder.rst
     layers/cumsum.rst
@@ -102,6 +104,7 @@ fluid.layers
     layers/floor.rst
     layers/fsp_matrix.rst
     layers/gather.rst
+    layers/gather_nd.rst
     layers/gaussian_random.rst
     layers/gaussian_random_batch_size_like.rst
     layers/generate_mask_labels.rst
@@ -126,6 +129,7 @@ fluid.layers
     layers/image_resize.rst
     layers/image_resize_short.rst
     layers/increment.rst
+    layers/instance_norm.rst
     layers/inverse_time_decay.rst
     layers/iou_similarity.rst
     layers/is_empty.rst
@@ -160,10 +164,13 @@ fluid.layers
     layers/mean.rst
     layers/mean_iou.rst
     layers/merge_selected_rows.rst
+    layers/mse_loss.rst
     layers/mul.rst
     layers/multi_box_head.rst
     layers/multiclass_nms.rst
+    layers/multiclass_nms2.rst
     layers/multiplex.rst
+    layers/MultivariateNormalDiag.rst
     layers/natural_exp_decay.rst
     layers/nce.rst
     layers/noam_decay.rst
@@ -186,6 +193,7 @@ fluid.layers
     layers/prelu.rst
     layers/Print.rst
     layers/prior_box.rst
+    layers/prroi_pool.rst
     layers/psroi_pool.rst
     layers/py_func.rst
     layers/py_reader.rst
@@ -223,6 +231,8 @@ fluid.layers
     layers/sampling_id.rst
     layers/scale.rst
     layers/scatter.rst
+    layers/scatter_nd.rst
+    layers/scatter_nd_add.rst
     layers/selu.rst
     layers/sequence_concat.rst
     layers/sequence_conv.rst
@@ -269,6 +279,7 @@ fluid.layers
     layers/stack.rst
     layers/stanh.rst
     layers/StaticRNN.rst
+    layers/strided_slice.rst
     layers/sum.rst
     layers/sums.rst
     layers/swish.rst

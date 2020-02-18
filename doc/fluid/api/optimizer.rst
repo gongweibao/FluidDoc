@@ -21,6 +21,7 @@ fluid.optimizer
     optimizer/LambOptimizer.rst
     optimizer/LarsMomentum.rst
     optimizer/LarsMomentumOptimizer.rst
+    optimizer/LookaheadOptimizer.rst
     optimizer/ModelAverage.rst
     optimizer/Momentum.rst
     optimizer/MomentumOptimizer.rst
